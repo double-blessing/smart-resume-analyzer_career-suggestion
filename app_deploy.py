@@ -353,8 +353,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style='text-align: center; color: #666;'>
-        <p>Smart Resume Analyzer | Perfect for 300 Level Projects | 100% Free</p>
-        <p>Deploy this app for free on Streamlit Community Cloud</p>
+        <p>Smart Resume Analyzer</p>
     </div>
     """, unsafe_allow_html=True)
 
